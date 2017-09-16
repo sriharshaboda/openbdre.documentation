@@ -1,0 +1,9 @@
+{
+	"firstName": "Sherlock",
+	"lastName": "Holmes",
+	"address": {
+		"Street": "221B Baker Street",
+		"City": "London",
+		"Country": "England"
+	}
+}
